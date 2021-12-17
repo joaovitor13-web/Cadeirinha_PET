@@ -18,6 +18,9 @@ public class Login extends AppCompatActivity {
     private SignInClient oneTapClient;
     private BeginSignInRequest signInRequest;
 
+
+    //"Qual é a msg?"
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -30,7 +33,5 @@ public class Login extends AppCompatActivity {
                 startActivity(intent);
             }
         });
-
     }
-
 }
