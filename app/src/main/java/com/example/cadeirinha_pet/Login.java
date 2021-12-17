@@ -20,7 +20,7 @@ public class Login extends AppCompatActivity {
 
 
     //"Qual é a msg?"
-    \\ "a mensagem é uma só: SEXTOU""
+    //"a mensagem é uma só: SEXTOU""
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
