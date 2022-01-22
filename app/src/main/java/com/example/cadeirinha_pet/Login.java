@@ -21,7 +21,7 @@ public class Login extends AppCompatActivity {
 
     //"Qual é a msg?"
     //Mudei --
-    //nao deu certo!
+    //Deu certo!
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
